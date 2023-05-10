@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ chaitantya
-- 👀 I’m interested in graphic designing 
-- 🌱 I’m currently learning data visualization and analytics with python
-- 💞️ I’m looking to collaborate on designing projects
+- 👀 I’m interested in Data Analytics and Visualization
+- 🌱 I’m currently learning data visualization and analytics with Power-BI,SQL,Tableau,Excel
+- 💞️ I’m looking to collaborate on BI projects
 - 📫 How to reach me ...
 divvela.chaitanya2002@gmail.com
  , 8106012357
