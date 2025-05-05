@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ chaitantya
-- 👀 I’m interested in Data Analytics and Visualization
-- 🌱 I’m currently learning data visualization and analytics with Power-BI,SQL,Tableau,Excel
-- 💞️ I’m looking to collaborate on BI projects
-- 📫 How to reach me ...
-divvela.chaitanya2002@gmail.com
- , 8106012357
+# 👋 Hey, I’m Krishna Chaitanya Divvela
+🚀 Founder & CEO @vollo inc.  
+   – AI-powered software company delivering intelligent solutions globally  
+
+📈 Co-Founder @cryzto  
+   – Smart ML-based trading intelligence for everyone  
+
+✈️ Co-founder & COO @DassunX  
+   – Innovating next-gen eVTOL aircraft and aerospace systems  
+
+📧 info@volloinc.com  
+🔗 [LinkedIn](https://linkedin.com/in/krishnachaitanyadivvela)  
+🌐 [volloinc.com](https://volloinc.com) | [cryzto.ai](https://cryzto.ai) | [DassunX](dassunx.com)
+
+ 
 
 <!---
 divvelachaitantya/divvelachaitantya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
