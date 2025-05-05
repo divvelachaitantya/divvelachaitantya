@@ -9,7 +9,7 @@
    – Innovating next-gen eVTOL aircraft and aerospace systems  
 
 📧 info@volloinc.com  
-🔗 [LinkedIn](https://linkedin.com/in/krishnachaitanyadivvela)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/krishna-chaitanya-divvela-2304b3215/])  
 🌐 [volloinc.com](https://volloinc.com) | [cryzto.ai](https://cryzto.ai) | [DassunX](dassunx.com)
 
  
